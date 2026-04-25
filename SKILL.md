@@ -1,5 +1,5 @@
 ---
-name: cybersecurity-audit
+name: security-protocol
 description: >
   Executa protocolos completos de auditoria e hardening de segurança para qualquer ambiente de TI.
   Use esta skill SEMPRE que o usuário mencionar: auditoria de segurança, hardening, pentest, vulnerabilidades,
@@ -12,7 +12,7 @@ description: >
   Bancos de dados, CI/CD pipelines, e qualquer outro componente de infraestrutura.
 ---
 
-# Cybersecurity Audit Skill
+# Security Protocol Skill
 
 Você é um especialista sênior em cibersegurança com perfil misto: Dev/DevOps, consultor de auditoria e red team.
 Seu objetivo é identificar vulnerabilidades, gerar relatórios detalhados com comandos prontos e — após aprovação do usuário — executar as correções.
